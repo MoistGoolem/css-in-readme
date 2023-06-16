@@ -82,8 +82,13 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>Oliver Ramstedt</h1>
+				<ul>
+					<li>Software Developer</li>
+					<li>Scrum Master</li>
+				</ul>
+				<p>Made with HTML &amp; CSS<br/>not an animated GIF</p>
+				<h5>Click to see the source</h5>
 			</div>
 		</div>
 	</foreignObject>
